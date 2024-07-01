@@ -8,6 +8,7 @@ export default function Routes() {
       <ul>
         <li><Link href="my-folder/new-route">New Route</Link></li>
         <li><Link href="my-folder/dynamic-route">Dynamic Route</Link></li>
+        <li><Link href="ap-folder/contact">AP contacts</Link></li>
       </ul>
     </div>
   );
